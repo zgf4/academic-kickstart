@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Ralf Martin
+name: POWBAL.NET
 
 # Username (this should match the folder name)
 authors:
-- admin
+- powbal
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Associate Professor of Economics
+role: Balancing the electricity grid
 
 # Organizations/Affiliations
 organizations:
-- name: Imperial College Business School
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
