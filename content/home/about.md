@@ -10,7 +10,7 @@ title = "About"
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-#author = "powbal"
+# author = "powbal"
 
 ![alternative text for search engines](avatar.png)
 
