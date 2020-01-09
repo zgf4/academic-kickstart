@@ -1,4 +1,5 @@
 +++
+# Demo widget
 
 widget = "demo"  # The name of the widget that you created.
 headless = true  # This file represents a page section.
