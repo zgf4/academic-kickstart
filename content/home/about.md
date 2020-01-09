@@ -12,6 +12,10 @@ title = "About"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 # author = "powbal"
 
+
+
+[[item]]
+
 ![alternative text for search engines](avatar.png)
 
 
