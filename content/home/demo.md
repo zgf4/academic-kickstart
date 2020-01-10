@@ -8,8 +8,9 @@ weight = 1       # Order that this section will appear in.
 
 
 
-[powbal](../authors/powbal/avatar.png)
+#[powbal](../authors/powbal/avatar.png)
 
+{{< figure src="avatar.png" title="A caption" lightbox="true" >}}
 
 Helping you to consume power when it is clean
 
