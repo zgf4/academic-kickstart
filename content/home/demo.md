@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true    # Activate this widget? true/false
 weight = 1       # Order that this section will appear in.
 
-
++++
 
 ![powbal](img/avatar.png)
 
@@ -20,4 +20,4 @@ Currently Powbal is in trial mode. We are running experiments with students and 
 
 Connect with us on twitter, or send us an email: powbal(at)imperial.ac.uk!
 
-+++
+
