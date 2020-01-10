@@ -8,9 +8,12 @@ weight = 1       # Order that this section will appear in.
 
 +++
 
+<<<<<<< Updated upstream
 
 ![alternative text for search engines](avatar.png)
 
+=======
+>>>>>>> Stashed changes
 
 Helping you to consume power when it is clean
 
