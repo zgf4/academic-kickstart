@@ -6,10 +6,9 @@ headless = true  # This file represents a page section.
 active = true    # Activate this widget? true/false
 weight = 1       # Order that this section will appear in.
 
-+++
 
 
-![alternative text for search engines](avatar.png)
+![powbal](../auhtors/powbal/avatar.png)
 
 
 Helping you to consume power when it is clean
