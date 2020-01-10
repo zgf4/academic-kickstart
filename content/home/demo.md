@@ -10,7 +10,7 @@ weight = 2       # Order that this section will appear in.
 
 Everything is awesome!
 
-![alternative text for search engines](avatar.png)
+#![alternative text for search engines](avatar.png)
 
 
 Helping you to consume power when it is clean
