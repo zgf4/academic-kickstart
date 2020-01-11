@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Greer Gosnell
+name: Zeynep Gurguc
 
 # Username (this should match the folder name)
 authors:
-- greer
+- zeynep
 
 # Is this the primary user of the site?
 superuser: true

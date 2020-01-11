@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Greer Gosnell
+name: Quentin Coutellier
 
 # Username (this should match the folder name)
 authors:
-- greer
+- quentin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher LSE
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: London School of Economics
+- name: Imperial College Business School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
