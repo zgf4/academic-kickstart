@@ -1,10 +1,10 @@
 +++
 # About Powbal
 
-widget = "blank"  # The name of the widget that you created.
-headless = true   # This file represents a page section.
-active = true     # Activate this widget? true/false
-weight = 1        # Order that this section will appear in.
+widget   = "blank"  # The name of the widget that you created.
+headless = true     # This file represents a page section.
+active   = true     # Activate this widget? true/false
+weight   = 1        # Order that this section will appear in.
 
 
 [design]
@@ -16,6 +16,11 @@ weight = 1        # Order that this section will appear in.
 
 
 ![powbal](img/avatar.png)
+
+
+Welcome to the POWBAL Homepage. POWBAL is an initiative and research project by Imperial and LSE researchers. POWBAL wants to make the energy sector cleaner by moving power consumption to time periods when power generation is cleanest.
+This requires new technology. More importantly, it requires an understanding of the behavioural drivers that 
+
 
 **_Helping you to consume power when it is clean_**
 
