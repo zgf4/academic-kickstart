@@ -14,9 +14,15 @@
 #  weight = 20
 
 [[main]]
+  name = "User Patform"
+  url = "https://powbal.rcs.ic.ac.uk/"
+  weight = 50
+
+
+[[main]]
   name = "People"
   url = "#people"
-  weight = 50
+  weight = 55
 
 [[main]]
   name = "Contact"

@@ -18,13 +18,5 @@ weight   = 1        # Order that this section will appear in.
 ![powbal](img/avatar.png)
 
 
-Welcome to the POWBAL Homepage. POWBAL is an initiative and research project by Imperial and LSE researchers. POWBAL wants to make the energy sector cleaner by moving power consumption to time periods when power generation is cleanest.
-This requires new technology. More importantly, it requires an understanding of the behavioural drivers that 
-
-
-**_Helping you to consume power when it is clean_**
-
-Increasing amounts of power are being produced from clean renewable power. However, renewable power is intermittent: it depends on the wind the sun and the waves. Hence, what matters is increasingly not how much energy you consume, but when.
-
-Currently Powbal is in trial mode. We are running experiments with students and staff from Imperial College, LSE and University of Oxford. 
-
+**Welcome to POWBAL.** POWBAL is an initiative and research project by Imperial and LSE researchers. POWBAL wants to make the energy sector cleaner by moving power consumption to time periods when power generation is cleanest.
+This requires new technology. More importantly, it requires an understanding of the behavioural drivers of adoption of those technologies. At POWBAL we develop simple technological solutions to facilitate load shifting and examine the adoption behaviour by users.
