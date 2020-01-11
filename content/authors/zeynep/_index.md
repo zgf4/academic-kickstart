@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher LSE
+role: Postdoctoral Researcher Imperial College Business School
 
 # Organizations/Affiliations
 organizations:
-- name: London School of Economics
+- name: Imperial College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,6 +23,7 @@ organizations:
 interests:
 - Climate Change
 - Behavioural Economics
+- Mechanism Design
 
 
 # Social/Academic Networking
