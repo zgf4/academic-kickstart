@@ -14,7 +14,7 @@
 #  weight = 20
 
 [[main]]
-  name = "User Patform"
+  name = "User Platform"
   url = "https://powbal.rcs.ic.ac.uk/"
   weight = 50
 
