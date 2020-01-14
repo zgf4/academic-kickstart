@@ -14,8 +14,8 @@ role: Postdoctoral Researcher LSE
 
 # Organizations/Affiliations
 organizations:
-- name: London School of Economics
-  url: ""
+- name: London School of Economics and Political Science
+  url: "http://www.lse.ac.uk/GranthamInstitute/profile/greer-gosnell/"
 
 # Short bio (displayed in user profile at end of posts)
 
