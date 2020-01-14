@@ -20,3 +20,6 @@ weight   = 1        # Order that this section will appear in.
 
 **Welcome to POWBAL.** POWBAL is an initiative and research project by Imperial and LSE researchers. POWBAL wants to make the energy sector cleaner by moving power consumption to time periods when power generation is cleanest.
 This requires new technology. More importantly, it requires an understanding of the behavioural drivers of adoption of those technologies. At POWBAL we develop simple technological solutions to facilitate load shifting and examine the adoption behaviour by users.
+
+<a class="twitter-timeline" href="https://twitter.com/EnergyPowbal" data-tweet-limit="NUMBER OF TWEETS" data-width="399" ></a>
+<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
