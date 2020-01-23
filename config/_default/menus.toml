@@ -14,7 +14,7 @@
 #  weight = 20
 
 [[main]]
-  name = "User Patform"
+  name = "User Platform"
   url = "https://powbal.rcs.ic.ac.uk/"
   weight = 50
 
@@ -23,15 +23,20 @@
   name = "People"
   url = "#people"
   weight = 55
+  
+[[main]]
+  name = "FAQs"
+  url = "https://docs.google.com/document/d/e/2PACX-1vTC78RpWtnBr1q5rBbLeALpSX5jeO5CaUUTfPHii3BHnTOEuKGcB0sNW-xcr8hNC8tojikuYZ7_PG9d/pub"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
-#    weight = 70
+#    weight = 80
