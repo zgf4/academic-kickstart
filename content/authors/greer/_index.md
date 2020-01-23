@@ -26,8 +26,7 @@ interests:
 - Behavioural Economics
 - Experimental Economics
 
-Greer’s research combines experimental and behavioural economics to reveal cost-effective climate change mitigation strategies at the microeconomic level.  
-
+And more
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
