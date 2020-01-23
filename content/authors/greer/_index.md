@@ -20,13 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 
-
 interests:
-
 
 - Climate Change
 - Behavioural Economics
 - Experimental Economics
+
+Greer’s research combines experimental and behavioural economics to reveal cost-effective climate change mitigation strategies at the microeconomic level.  
 
 
 # Social/Academic Networking
