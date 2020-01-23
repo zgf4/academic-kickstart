@@ -24,8 +24,6 @@ organizations:
 interests:
 
 
-Greer’s research combines experimental and behavioural economics to reveal cost-effective climate change mitigation strategies at the microeconomic level.  Her current research focuses on the contexts of commercial fuel efficiency (especially in the aviation industry), residential energy and resource use, and virtual grid capacity. She is also a BITSS Catalyst promoting transparency and reproducibility in social science research.
-
 - Climate Change
 - Behavioural Economics
 - Experimental Economics
