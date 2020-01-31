@@ -5,7 +5,7 @@
 widget   = "blank"  # The name of the widget that you created.
 headless = true     # This file represents a page section.
 active   = true     # Activate this widget? true/false
-weight   = 90        # Order that this section will appear in.
+weight   = 200        # Order that this section will appear in.
 
 
 [design]
@@ -16,11 +16,6 @@ weight   = 90        # Order that this section will appear in.
 
 
 
-
-
-widget = "blank"
-headless = true  # This file represents a page section.
-active = true
 
 # Frequently Asked Questions
 
