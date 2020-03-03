@@ -22,7 +22,7 @@ organizations:
 
 interests:
 - Climate Change
-- Behavioural Economics
+- Behavioural and Experimental Economics
 - Mechanism Design
 
 
