@@ -3,7 +3,7 @@
 name: Zeynep Gurguc
 
 # Username (this should match the folder name)
-authors:
+authors: 
 - zeynep
 
 # Is this the primary user of the site?
