@@ -18,7 +18,7 @@ organizations:
   url: "https://www.imperial.ac.uk/people/m.muuls"
 
 - name: London School of Economics  
-   url: "http://cep.lse.ac.uk/_new/staff/person.asp?id=976"
+  url: "http://cep.lse.ac.uk/_new/staff/person.asp?id=976"
 
 # Short bio (displayed in user profile at end of posts)
 
