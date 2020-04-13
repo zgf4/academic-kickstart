@@ -15,7 +15,10 @@ role: Assistant Professor of Economics
 # Organizations/Affiliations
 organizations:
 - name: Imperial College Business School
-  url: ""
+  url: "https://www.imperial.ac.uk/people/m.muuls"
+
+- name: London School of Economics  
+   url: "http://cep.lse.ac.uk/_new/staff/person.asp?id=976"
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -35,10 +38,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/mondpanther
+  link: https://twitter.com/mirabellemuuls?lang=en
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=bv_gfDMAAAAJ&hl=pt-BR
 - icon: github
   icon_pack: fab
   link: 
@@ -57,3 +60,5 @@ user_groups:
 - Researchers
 
 ---
+
+Mirabelle is an Assistant Professor in Economics at the Imperial College Business School. Mirabelle is the programme director of the MSc Climate Change, Management and Finance. She is also a Research Associate in the Centre for Economic Performance at the London School of Economics.  Her current research focuses on the economics of climate change, seeking in particular to understand the impact of climate change policies and climate change on firms' emissions, energy efficiency, innovation, competitiveness, and performance. Her research interests also cover international trade and globalisation.
