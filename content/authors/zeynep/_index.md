@@ -19,6 +19,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
+Zeynep Gurguc is a research associate at Imperial College Business School. She also lectures Behavioural Economics at University College London. Before joining the college, Zeynep worked as a lecturer at Universidad Carlos III and as a consultant at the World Bank. Her main research interests are experimental and behavioral economics, applied microeconomics, and game theory. She focuses on applications of these areas within the topics of energy demand management, communication, and digital economy.
+
 
 interests:
 - Climate Change
